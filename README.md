@@ -11,6 +11,6 @@ Welcome to my **AI Beginner Projects** repository! Here, I’m documenting my jo
 - In this project, we implemented various machine learning models, including Naive Bayes, Logistic Regression, and LSTM, to classify movie reviews as either positive or negative. The dataset comes from IMDb, and the focus is on text preprocessing, vectorization, and using different models to handle sentiment analysis.
 
 ## 3. [House Price Prediction](./House_Price_Prediction)
-- This project involves predicting house prices using multiple regression models such as Linear Regression, Decision trees, Random Forest, Gradient Boosting, Neural Network. The dataset contains various features about houses, and we explored different methods to optimize the model and evaluate its performance.
+- This project involves predicting house prices using multiple regression models such as Linear Regression, Decision tree, Random Forest, Gradient Boosting as well as simple Neural Network. The dataset contains various features about houses, and we explored different methods to optimize the model and evaluate its performance.
 
 Stay tuned as I continue to add more projects and grow my understanding of AI and machine learning!
