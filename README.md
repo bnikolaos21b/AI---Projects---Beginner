@@ -7,7 +7,7 @@ Welcome to my **AI Beginner Projects** repository! Here, I’m documenting my jo
 1. [Simple MNIST Image Classification](./Simple%20MNIST%20Image%20Classification)
    - This project demonstrates image classification using a basic neural network with the MNIST dataset. It covers data preprocessing, model training, and evaluating the results.
 
-## About Me:
-I’m Nikos, an aspiring AI Engineer, and this repository serves as a portfolio of my work and learning progress. I’m excited to share my journey with others and hope that these projects can inspire fellow beginners in AI!
-
+2. [Movie Sentiment Analysis](./Movie%20Sentiment%20Analysis)
+   - This project performs sentiment analysis on IMDb movie reviews using three models: **Naive Bayes**, **Logistic Regression**, and **LSTM**. It demonstrates text preprocessing, model training, evaluation, and real-time sentiment prediction on new reviews.
+   - 
 Stay tuned as I continue to add more projects and grow my understanding of AI and machine learning!
