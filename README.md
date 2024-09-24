@@ -9,5 +9,5 @@ Welcome to my **AI Beginner Projects** repository! Here, I’m documenting my jo
 
 2. [Movie Sentiment Analysis](./Movie%20Sentiment%20Analysis)
    - This project performs sentiment analysis on IMDb movie reviews using three models: **Naive Bayes**, **Logistic Regression**, and **LSTM**. It demonstrates text preprocessing, model training, evaluation, and real-time sentiment prediction on new reviews.
-   - 
+   
 Stay tuned as I continue to add more projects and grow my understanding of AI and machine learning!
