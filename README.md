@@ -13,4 +13,10 @@ Welcome to my **AI Beginner Projects** repository! Here, I’m documenting my jo
 ## 3. [House Price Prediction](./House_Price_Prediction)
 - This project involves predicting house prices using multiple regression models such as Linear Regression, Decision tree, Random Forest, Gradient Boosting as well as simple Neural Network. The dataset contains various features about houses, and we explored different methods to optimize the model and evaluate its performance.
 
+## 4. CIFAR-10 Image Classification(./CIFAR10_Image_Captioning)
+This project uses the CIFAR-10 dataset, which consists of 60,000 32x32 color images across 10 different classes. A convolutional neural network (CNN) was implemented to classify the images. The project covers data augmentation, model architecture design, and performance evaluation, offering a more complex example of image classification for those familiar with the basics.
+
+## 5. Facial Expression Recognition(./Facial_Expression_Recognition)
+In this project, a convolutional neural network (CNN) is used to recognize facial expressions based on a dataset of labeled images. The focus is on building a deep learning model capable of distinguishing between different emotional expressions such as happiness, sadness, surprise, etc. The project covers data preprocessing, model training, and evaluation, providing insights into how CNNs can be applied to real-world image recognition tasks.
+
 Stay tuned as I continue to add more projects and grow my understanding of AI and machine learning!
