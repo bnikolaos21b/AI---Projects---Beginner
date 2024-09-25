@@ -1,22 +1,29 @@
 # AI Beginner Projects
 
-Welcome to my **AI Beginner Projects** repository! Here, I’m documenting my journey as I learn and apply various AI and machine learning concepts. Each folder contains a specific project that showcases key learning milestones in my path toward becoming an AI Engineer, trying different kind of challenges and solving them my way.
+Welcome to my **AI Beginner Projects** repository! This repository documents my journey through various AI and machine learning projects. Each project represents a key learning milestone as I explore different AI concepts and challenges on my path to becoming an AI Engineer.
 
 ## Projects:
 
-## 1. [Simple MNIST Image Classification](./Simple_MNIST_Image_Classification)
-- This project demonstrates image classification using a basic neural network with the MNIST dataset. It covers data preprocessing, model training, and evaluation of results. A great starting point for beginners interested in understanding how neural networks work.
+### 1. [Simple MNIST Image Classification](./Simple_MNIST_Image_Classification)
+- A basic neural network model trained on the MNIST dataset for handwritten digit classification. This project covers data preprocessing, model training, and evaluation, offering a solid foundation for beginners.
 
-## 2. [Movie Sentiment Analysis](./Movie_Sentiment_Analysis)
-- In this project, we implemented various machine learning models, including Naive Bayes, Logistic Regression, and LSTM, to classify movie reviews as either positive or negative. The dataset comes from IMDb, and the focus is on text preprocessing, vectorization, and using different models to handle sentiment analysis.
+### 2. [Movie Sentiment Analysis](./Movie_Sentiment_Analysis)
+- This project uses various machine learning models like Naive Bayes, Logistic Regression, and LSTM to classify movie reviews as positive or negative. It focuses on text preprocessing and model comparisons.
 
-## 3. [House Price Prediction](./House_Price_Prediction)
-- This project involves predicting house prices using multiple regression models such as Linear Regression, Decision tree, Random Forest, Gradient Boosting as well as simple Neural Network. The dataset contains various features about houses, and we explored different methods to optimize the model and evaluate its performance.
+### 3. [House Price Prediction](./House_Price_Prediction)
+- A regression-based project predicting house prices using models like Linear Regression, Decision Tree, Random Forest, and Neural Networks. The dataset contains multiple house features, with a focus on model optimization.
 
-## 4. [CIFAR-10 Image Classification](./CIFAR10_Image_Captioning)
-- This project uses the CIFAR-10 dataset, which consists of 60,000 32x32 color images across 10 different classes. A convolutional neural network (CNN) was implemented to classify the images. The project covers data augmentation, model architecture design, and performance evaluation, offering a more complex example of image classification for those familiar with the basics.
+### 4. [CIFAR-10 Image Classification](./CIFAR10_Image_Captioning)
+- A CNN model classifying images from the CIFAR-10 dataset into 10 categories. This project delves into data augmentation, model architecture, and performance evaluation for image classification tasks.
 
-## 5. [Facial Expression Recognition](./Facial_Expression_Recognition)
-- In this project, a convolutional neural network (CNN) is used to recognize facial expressions based on a dataset of labeled images. The focus is on building a deep learning model capable of distinguishing between different emotional expressions such as happiness, sadness, surprise, etc. The project covers data preprocessing, model training, and evaluation, providing insights into how CNNs can be applied to real-world image recognition tasks.
+### 5. [Facial Expression Recognition](./Facial_Expression_Recognition)
+- A CNN model trained to recognize facial expressions from labeled images. It covers preprocessing, model training, and evaluation, showcasing how deep learning can identify emotions in images.
 
-Stay tuned as I continue to add more projects and grow my understanding of AI and machine learning!
+### 6. [Bitcoin Price Prediction using LSTM](./Bitcoin_LSTM_Forecasting)
+- This project uses LSTM networks to predict Bitcoin prices based on historical data. It demonstrates the use of RNNs for time-series forecasting, offering insights into financial market prediction.
+
+### 7. [MNIST Handwritten Digit Generation with GANs](./MNIST_GAN_Digit_Generation)
+- A Generative Adversarial Network (GAN) project aimed at generating handwritten digits. It highlights adversarial training, covering generator and discriminator models for image generation.
+
+More projects will be added as I continue my learning journey in AI and machine learning!
+
