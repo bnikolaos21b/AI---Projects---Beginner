@@ -25,5 +25,11 @@ Welcome to my **AI Beginner Projects** repository! This repository documents my 
 ### 7. [MNIST Handwritten Digit Generation with GANs](./MNIST_GAN_Digit_Generation)
 - A Generative Adversarial Network (GAN) project aimed at generating handwritten digits. It highlights adversarial training, covering generator and discriminator models for image generation.
 
+### 8. [Deep Q-Network (DQN) - CartPole-v1](./DQN_CartPole)
+- A reinforcement learning project where a DQN agent is trained to balance a pole on a moving cart in the CartPole-v1 environment. This project covers the use of neural networks, experience replay, and epsilon-greedy policies to teach the agent to achieve an optimal strategy for the task.
+
+### 9. [Deep Q-Network (DQN) with Dueling Architecture - LunarLander-v2](./DQN_LunarLander)
+- In this reinforcement learning project, a Dueling DQN agent is trained to control a spaceship and land it successfully on a platform in the LunarLander-v2 environment. It demonstrates the use of Q-learning with experience replay, target networks, and epsilon-greedy action selection.
+
 More projects will be added as I continue my learning journey in AI and machine learning!
 
